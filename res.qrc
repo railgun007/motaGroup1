@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bgm.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>hero_front.png</file>
+        <file>monster.png</file>
+        <file>ground.png</file>
+        <file>lava.png</file>
+        <file>star.png</file>
+        <file>wall.png</file>
+        <file>bg.png</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file>map.dat</file>
+    </qresource>
+</RCC>
